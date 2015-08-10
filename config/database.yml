@@ -1,0 +1,6 @@
+development:
+ adapter: postgresql
+ port: 5432
+ username: postgres
+ password: password
+ database: vid_dev
